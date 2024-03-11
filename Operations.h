@@ -9,3 +9,5 @@ int division (int a, int b);
 // Emre 
 
 int exposant(int nb,int exp);
+
+//bzez
