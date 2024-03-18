@@ -43,3 +43,9 @@ int division(int a, int b)
 	
 	
 }
+int NombrePremier(int nb)
+{
+	
+	
+}
+

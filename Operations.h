@@ -15,3 +15,5 @@ int exposant(int nb,int exp);
 //salut
 
 int factoriel(int nb);
+
+int NombrePremier(int nb);
