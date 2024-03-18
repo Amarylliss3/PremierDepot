@@ -11,3 +11,5 @@ int division (int a, int b);
 int exposant(int nb,int exp);
 
 //bzez
+
+int factoriel(int nb);
